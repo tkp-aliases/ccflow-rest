@@ -5,7 +5,7 @@ build-backend="hatchling.build"
 [project]
 name = "ccflow-rest"
 authors = [{name = "the ccflow-rest authors", email = "dev@1kbgz.com"}]
-description = "Alias for ccflow-rest"
+description = "Alias for ccflow-http"
 readme = "README.md"
 license = { text = "Apache-2.0" }
 version = "0.1.0"

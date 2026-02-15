@@ -6,7 +6,6 @@ build-backend="hatchling.build"
 
 [project]
 name = "ccflow-rest"
-=======
 authors = [
     {name = "the ccflow-rest authors", email = "dev@1kbgz.com"},
 ]

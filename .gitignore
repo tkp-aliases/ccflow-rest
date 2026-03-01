@@ -141,14 +141,12 @@ js/node_modules
 js/test-results
 js/playwright-report
 js/*.tgz
-ccflow_rest/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
 Untitled*.ipynb
-!ccflow_rest/extension/ccflow_rest.json
-!ccflow_rest/extension/install.json
+ccflow_rest/extension
 ccflow_rest/nbextension
 ccflow_rest/labextension
 
@@ -157,3 +155,7 @@ ccflow_rest/labextension
 
 # Rust
 target
+
+# Hydra
+outputs/
+multirun/
